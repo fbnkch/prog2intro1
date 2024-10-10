@@ -12,4 +12,9 @@ class AppTest {
         assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
         System.out.println("Das ist ein Test, ob alles funktioniert hat");
     }
+
+
+public static void main(String[] args) {
+    System.out.println("Hello World");
+}
 }
